@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working in NRSC-ISRO Hyderabad<br><br>🌱 I’m currently learning Advance AI agents frameworks<br><br>🤝 I’m currently working on Geospatial Bot for ISRO<br><br>💬 Ask me about AI, Data Science, Backend, Machine Learning<br><br>⚡ Fun fact , I can do Muscle up<br><br>📫 How to reach me nidhishwakodikar@gmail.com
+🔭 I’m currently working in NRSC-ISRO Hyderabad<br><br>🌱 Diving deep into Advanced AI Agent Frameworks and their applications<br><br>🤝 Leading the development of a cutting-edge Geospatial Bot for ISRO<br><br>💬My areas of expertise include:
+   - Artificial Intelligence & Machine Learning
+   - Data Science & Analytics
+   - Backend Development
+   - Spatial Data Processing<br>
+<br>
+⚡ Fun fact , I can do Muscle up<br><br>
+📫 How to reach me nidhishwakodikar@gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 
