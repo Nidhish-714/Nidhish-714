@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working in NRSC-ISRO Hyderabad<br><br>🌱 I’m currently learning Advance AI agents frameworks<br><br>🤝 I’m currently working on Geospatial Bot for ISRO<br><br>💬 Ask me about AI, Data Science, Backend, Machine Learning<br><br>⚡ Fun fact , I can do Muscle up<br><br>📫 How to reach me nidhishwakodikar@gmail.com
 
-<img src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = "800>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nidhish-wakodikar-b00117259/) 
 
