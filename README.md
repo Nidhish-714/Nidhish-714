@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in NRSC-ISRO Hyderabad<br><br>🌱 Diving deep into Advanced AI Agent Frameworks and their applications<br><br>🤝 Leading the development of a cutting-edge Geospatial Bot for ISRO<br><br>💬My areas of expertise include:
+🔭 Former Intern @NRSC-ISRO Hyderabad<br><br>🌱 Diving deep into Advanced AI Agent Frameworks and their applications<br><br>🤝 Leading the development of a cutting-edge Geospatial Bot for ISRO<br><br>💬My areas of expertise include:
    - Artificial Intelligence & Machine Learning
    - Data Science & Analytics
    - Backend Development
